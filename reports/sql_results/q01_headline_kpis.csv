@@ -1,0 +1,2 @@
+total_orders,delivered_orders,cancelled_orders,unavailable_orders,cancellation_rate_pct,unfulfilled_rate_pct,unique_customers,revenue_orders,product_revenue,freight_revenue,gmv,freight_share_of_gmv_pct,avg_order_value,avg_items_per_order,revenue_per_customer,late_delivery_rate_pct,avg_delivery_days,avg_review_score,negative_review_rate_pct
+99092,96211,580,602,0.59,1.19,94703,97905,13449529.68,2234177.06,15683706.74,14.25,137.37,1.14,142.02,6.79,12.5,4.103,14.22

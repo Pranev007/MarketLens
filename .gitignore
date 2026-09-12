@@ -1,0 +1,42 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+build/
+dist/
+
+# Derived data. Rebuild with:
+#   python -m marketlens.data_ingestion    # download the Olist extract
+#   python -m marketlens.data_processing   # clean, validate, write Parquet
+# The cleaned Parquet tables are ~38MB and are a pure function of the raw
+# extract, so they do not belong in version control.
+#
+# data/raw/olist/*.csv is currently tracked. The Olist dataset is published
+# under CC BY-NC-SA 4.0, so redistributing it carries that licence forward;
+# untracking it and letting the downloader fetch it is the cleaner option.
+data/raw/*.csv
+data/processed/*.parquet
+data/processed/*.csv
+!data/**/.gitkeep
+
+# reports/ IS committed on purpose. The README links to the figures and to the
+# generated insight and data-quality reports, so a reader should be able to see
+# the output of this project on GitHub without running anything. It is ~1.2MB.
+
+# Excluded docs
+docs/resume_bullets.md
+docs/interview_questions.md
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

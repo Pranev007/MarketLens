@@ -1,0 +1,6 @@
+frequency_band,customers,orders,revenue,pct_of_customers,pct_of_revenue,revenue_per_customer,avg_order_value
+1 order,91829,91829.0,12702404.96,96.97,94.44,138.33,138.33
+2 orders,2639,5278.0,647725.13,2.79,4.82,245.44,122.72
+3 orders,187,561.0,68006.29,0.2,0.51,363.67,121.22
+4-5 orders,38,161.0,24782.15,0.04,0.18,652.16,153.93
+6+ orders,10,76.0,6611.15,0.01,0.05,661.12,86.99

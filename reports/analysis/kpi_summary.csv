@@ -1,0 +1,29 @@
+KPI,Value
+Reporting period,05 Jan 2017 to 29 Aug 2018
+Total orders,"99,092"
+Delivered orders,"96,211"
+Cancelled orders,580
+Unavailable orders,602
+Cancellation rate,0.59%
+Unfulfilled rate (cancelled + unavailable),1.19%
+Unique customers,"94,703"
+Customer accounts (one per order),"97,905"
+Repeat purchase rate,3.03%
+Product revenue,"13,449,529.68"
+Freight revenue,"2,234,177.06"
+GMV (product + freight),"15,683,706.74"
+Freight as share of GMV,14.25%
+Average order value,137.37
+Average items per order,1.14
+Average item price,120.35
+Revenue per customer,142.02
+Active sellers,"3,029"
+Products sold,"32,578"
+On-time delivery rate,93.21%
+Late delivery rate,6.79%
+Average delivery days,12.5
+Median delivery days,10
+Delivery date coverage,99.99%
+Average review score,4.10 / 5
+Negative review rate (1-2 stars),14.22%
+Review coverage,100.00%

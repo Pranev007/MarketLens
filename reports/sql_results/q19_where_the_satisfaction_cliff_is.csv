@@ -1,0 +1,9 @@
+lateness_band,orders,pct_of_orders,avg_review_score,one_star_rate_pct,negative_review_rate_pct,avg_delivery_days,change_vs_prev_band
+15+ days early,34693,36.06,4.316,6.68,9.22,9.8,
+7-14 days early,41187,42.81,4.294,6.68,9.24,10.6,-0.023
+3-6 days early,9487,9.86,4.18,7.24,10.64,13.5,-0.113
+0-2 days early,4302,4.47,4.096,8.28,12.04,17.1,-0.084
+1-3 days late,1869,1.94,3.281,25.41,32.48,23.3,-0.815
+4-7 days late,1802,1.87,2.09,58.99,67.98,28.2,-1.192
+8-15 days late,1637,1.7,1.673,70.13,80.15,35.5,-0.417
+15+ days late,1223,1.27,1.723,69.26,78.41,56.4,0.05

@@ -1,0 +1,2 @@
+delivered_orders,late_orders,late_rate,on_time_rate,avg_delivery_days,median_delivery_days,p90_delivery_days,avg_days_early,avg_review_score,negative_review_rate,avg_score_on_time,avg_score_late
+96203,6531,0.06788769580990198,0.932112304190098,12.476825047035955,10.0,23.0,11.807968566468821,4.143638253638254,0.13133056133056134,4.281000122673388,2.2576940744143315

@@ -1,0 +1,25 @@
+category_group,rank_in_category,rank_with_gaps,dense_rank,product_id,leaf_category,units_sold,product_revenue,avg_price,pct_of_category
+Appliances,1,1,1,87feb07adc221a4c6cdf051ea1afd0ff,home_appliances_2,7,14770.0,2110.0,3.08
+Appliances,2,2,2,f49e985b4cb2d0543890d6dd00077663,small_appliances_home_oven_and_coffee,19,14590.0,767.89,3.05
+Appliances,3,3,3,0433830caca22b01a0f477d31307b043,small_appliances_home_oven_and_coffee,7,13193.0,1884.71,2.75
+Fashion & Accessories,1,1,1,53b36df67ebb7c41585e8d54d6772e08,watches_gifts,323,37683.42,116.67,2.45
+Fashion & Accessories,2,2,2,e0d64dcfaa3b6db5c54ca298ae101d05,watches_gifts,194,31786.82,163.85,2.07
+Fashion & Accessories,3,3,3,d285360f29ac7fd97640bf0baef03de0,watches_gifts,123,31623.81,257.1,2.06
+Health & Beauty,1,1,1,bb50f2e236e5eea0100680137654686c,health_beauty,195,63885.0,327.62,3.89
+Health & Beauty,2,2,2,6cdd53843498f92890544667809f1595,health_beauty,156,54730.2,350.83,3.33
+Health & Beauty,3,3,3,2b4609f8948be18874494203496bc318,health_beauty,259,22627.23,87.36,1.38
+Home & Furniture,1,1,1,99a4788cb24856965c36a24e339b6058,bed_bath_table,487,42938.66,88.17,1.5
+Home & Furniture,2,2,2,aca2eb7d00ea1a7b8ebd4e68314663af,furniture_decor,527,37608.9,71.36,1.31
+Home & Furniture,3,3,3,f1c7f353075ce59d8a6f3cf58f419c9c,bed_bath_table,154,29997.36,194.79,1.05
+Industry & Construction,1,1,1,fd0065af7f09af4b82a0ca8f3eed1852,auto,10,19999.9,1999.99,1.91
+Industry & Construction,2,2,2,1dec4c88c685d5a07bf01dcb0f8bf9f8,auto,35,19965.0,570.43,1.91
+Industry & Construction,3,3,3,a02d0123079f4ae96001ba2010d1a2df,construction_tools_lights,56,13550.0,241.96,1.3
+Other,1,1,1,5a848e4ab52fd5445cdc07aab1c40e48,unknown,197,24229.03,122.99,13.57
+Other,2,2,2,eed5cbd74fac3bd79b7c7ec95fa7507d,unknown,5,9945.0,1989.0,5.57
+Other,3,3,3,b1d207586fca400a2370d50a9ba1da98,unknown,48,7152.0,149.0,4.01
+Sports & Leisure,1,1,1,25c38557cf793876c5abdd5931f922db,baby,38,38907.32,1023.88,1.08
+Sports & Leisure,2,2,2,5f504b3a1c75b73d6151be81eb05bdc9,cool_stuff,63,37733.9,598.95,1.05
+Sports & Leisure,3,3,3,422879e10f46682990de24d770e7f83d,garden_tools,484,26577.22,54.91,0.74
+Technology,1,1,1,d6160fb7873f184099d9bc95e30376af,computers,35,48899.34,1397.12,2.33
+Technology,2,2,2,d1c427060a0f73f6b889a5c7c61f2ac4,computers_accessories,341,46916.51,137.59,2.23
+Technology,3,3,3,3dd2a17168ec895c781a9191c1e95ad7,computers_accessories,274,41082.6,149.94,1.96

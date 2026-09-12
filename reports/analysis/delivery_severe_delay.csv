@@ -1,0 +1,2 @@
+threshold_days,on_time_orders,on_time_score,any_late_orders,any_late_score,severe_orders,severe_score,drop_any_late,drop_severe,one_star_rate_on_time,one_star_rate_late,one_star_rate_severe
+7,89669,4.281000122673388,6531,2.2576940744143315,2860,1.6944055944055945,2.023306048259056,2.586594528267793,0.06813949079391986,0.5409585055887307,0.6975524475524476

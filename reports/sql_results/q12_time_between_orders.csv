@@ -1,0 +1,2 @@
+repeat_purchases,repeat_customers,avg_days_between,p25_days,median_days,p75_days,p90_days,pct_within_30d,pct_within_90d,pct_within_180d,median_of_customer_medians
+2919,2624,85.5,2.0,39.0,133.0,251.20000000000027,45.84,66.19,82.43,41.0

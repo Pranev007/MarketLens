@@ -1,0 +1,3 @@
+delivery_outcome,orders,pct_of_orders,avg_review_score,avg_delivery_days,one_star_rate_pct,negative_review_rate_pct,five_star_rate_pct,revenue
+On time or early,89669,93.21,4.281,10.9,6.81,9.51,62.04,12193489.69
+Late,6531,6.79,2.258,33.9,54.1,62.82,16.32,985618.47

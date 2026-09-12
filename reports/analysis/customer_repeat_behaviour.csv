@@ -1,0 +1,2 @@
+unique_customers,customer_accounts,repeat_customers,repeat_purchase_rate,repeat_rate_if_keyed_on_customer_id,max_orders_by_one_customer,avg_orders_per_customer,pct_revenue_from_repeat_customers
+94703,97905,2874,0.030347507470724264,0.0,16,1.0338109669176268,0.05555024880245477

@@ -1,0 +1,9 @@
+category_group,product_revenue,pct_of_revenue,revenue_rank,avg_review_score,satisfaction_rank,negative_review_rate_pct,late_delivery_rate_pct,freight_to_price_pct,rank_gap,assessment
+Sports & Leisure,3522109.4,26.72,1,4.161,3,13.19,6.33,17.25,2,"sells well, satisfies poorly - investigate"
+Home & Furniture,2821251.07,21.41,2,3.938,7,18.03,6.66,22.2,5,"sells well, satisfies poorly - investigate"
+Technology,2053335.42,15.58,3,4.008,6,16.14,6.78,15.9,3,"sells well, satisfies poorly - investigate"
+Health & Beauty,1616238.94,12.26,4,4.186,1,12.91,7.28,14.31,-3,satisfies better than its size suggests
+Fashion & Accessories,1498734.09,11.37,5,4.117,4,13.79,6.38,11.24,-1,revenue and satisfaction aligned
+Industry & Construction,1029343.91,7.81,6,4.074,5,14.91,6.55,15.13,-1,revenue and satisfaction aligned
+Appliances,468104.38,3.55,7,4.181,2,12.42,4.66,10.49,-5,satisfies better than its size suggests
+Other,170660.74,1.29,8,3.921,8,20.0,7.49,15.79,0,revenue and satisfaction aligned

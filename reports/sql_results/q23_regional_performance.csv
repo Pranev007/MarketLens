@@ -1,0 +1,6 @@
+customer_region,customers,orders,product_revenue,pct_of_revenue,avg_order_value,revenue_per_customer,avg_item_price,avg_freight_per_item,freight_to_price_pct,avg_delivery_days,late_rate_pct,avg_review_score,negative_review_rate_pct,unfulfilled_rate_pct
+Southeast,65690,67146,8794685.26,65.39,130.98,133.88,114.57,17.37,15.17,10.7,6.13,4.167,12.69,1.3
+South,13635,13947,1930565.23,14.35,138.42,141.59,120.46,21.23,17.63,14.0,5.92,4.182,12.09,1.01
+Northeast,9106,9272,1532195.96,11.39,165.25,168.26,148.21,32.22,21.74,19.9,12.76,3.952,17.27,0.93
+Central-West,5578,5712,859469.14,6.39,150.47,154.08,130.76,23.04,17.62,14.9,6.54,4.12,13.42,0.88
+North,1788,1828,332614.09,2.47,181.96,186.03,162.17,36.87,22.74,22.5,8.6,4.014,15.63,0.92
