@@ -23,8 +23,8 @@ dist/
 # under CC BY-NC-SA 4.0, so redistributing it carries that licence forward;
 # untracking it and letting the downloader fetch it is the cleaner option.
 data/raw/*.csv
-data/processed/*.parquet
 data/processed/*.csv
+!data/processed/*.parquet
 !data/**/.gitkeep
 
 # reports/ IS committed on purpose. The README links to the figures and to the

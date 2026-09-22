@@ -7,6 +7,13 @@ textColor = "#1f2933"
 
 [server]
 headless = true
+enableCORS = false
+enableXsrfProtection = true
+maxUploadSize = 200
 
 [browser]
 gatherUsageStats = false
+
+[runner]
+magicEnabled = true
+fastReruns = true
